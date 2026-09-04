@@ -38,7 +38,7 @@ app.add_middleware(
 # LOAD SCHEME DATABASE
 # =========================================================
 
-SCHEMES_FILE = Path(__file__).parent.parent / "data" / "schemes.json"
+SCHEMES_FILE = Path(__file__).parent / "schemes.json"
 
 with open(SCHEMES_FILE, "r", encoding="utf-8") as file:
     schemes = json.load(file)
