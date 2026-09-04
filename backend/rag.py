@@ -4,8 +4,7 @@ from sentence_transformers import SentenceTransformer, util
 
 
 # Scheme JSON location
-SCHEMES_FILE = Path(__file__).parent.parent / "data" / "schemes.json"
-
+SCHEMES_FILE = Path(__file__).parent / "schemes.json"
 
 # Load schemes
 with open(SCHEMES_FILE, "r", encoding="utf-8") as file:
