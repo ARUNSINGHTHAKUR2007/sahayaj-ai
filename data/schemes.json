@@ -1,0 +1,117 @@
+[
+  {
+    "id": "mudra",
+    "name": "Pradhan Mantri MUDRA Yojana",
+    "category": ["SC", "ST", "OBC", "General", "Women"],
+    "gender": ["Male", "Female", "Other"],
+    "business_types": ["Manufacturing", "Trading", "Services"],
+    "min_age": 18,
+    "max_age": null,
+    "states": ["All"],
+    "benefit_type": "Loan",
+    "loan_limit": "Up to ₹10 lakh",
+    "documents": [
+      "Identity Proof",
+      "Address Proof",
+      "Business/Project Details",
+      "Bank Account Details"
+    ],
+    "description": "Micro and small business activities ke liye institutional credit support.",
+    "official_website": "https://www.mudra.org.in/",
+    "source_status": "Official source required for final verification"
+  },
+  {
+    "id": "standup_india",
+    "name": "Stand-Up India",
+    "category": ["SC", "ST", "Women"],
+    "gender": ["Female"],
+    "business_types": ["Manufacturing", "Trading", "Services"],
+    "min_age": 18,
+    "max_age": null,
+    "states": ["All"],
+    "benefit_type": "Bank Loan",
+    "loan_limit": "₹10 lakh to ₹1 crore",
+    "documents": [
+      "Identity Proof",
+      "Address Proof",
+      "Business Plan",
+      "Category Certificate where applicable",
+      "Bank Account Details"
+    ],
+    "description": "Eligible SC/ST and women entrepreneurs ko greenfield enterprise establish karne ke liye bank finance support.",
+    "official_website": "https://www.standupmitra.in/",
+    "source_status": "Official source required for final verification"
+  },
+  {
+    "id": "pm_ajay",
+    "name": "PM-AJAY",
+    "category": ["SC"],
+    "gender": ["Male", "Female", "Other"],
+    "business_types": ["Manufacturing", "Trading", "Services"],
+    "min_age": null,
+    "max_age": null,
+    "states": ["All"],
+    "benefit_type": "Government Assistance",
+    "loan_limit": null,
+    "documents": [
+      "Caste Certificate",
+      "Income Certificate where applicable",
+      "Identity Proof",
+      "Address Proof",
+      "Bank Account Details"
+    ],
+    "description": "Scheduled Caste communities ke socio-economic development aur livelihood support se sambandhit government programme.",
+    "official_website": "https://socialjustice.gov.in/",
+    "source_status": "Official source required for final verification"
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme",
+    "category": ["SC", "ST", "OBC", "General", "Women"],
+    "gender": ["Male", "Female", "Other"],
+    "business_types": ["Manufacturing", "Trading", "Services"],
+    "min_age": 18,
+    "max_age": null,
+    "states": ["All"],
+    "benefit_type": "Bank Finance + Margin Money Subsidy",
+    "loan_limit": null,
+    "max_project_cost_manufacturing": 5000000,
+    "max_project_cost_service": 2000000,
+    "documents": [
+      "Identity Proof",
+      "Address Proof",
+      "Project Report",
+      "Category Certificate where applicable",
+      "Educational Qualification Proof where applicable",
+      "Bank Account Details"
+    ],
+    "description": "New viable micro-enterprises establish karne ke liye bank finance aur margin money subsidy support.",
+    "official_website": "https://www.kviconline.gov.in/pmegpeportal/",
+    "source_status": "Verified against PMEGP revised guidelines"
+  },
+  {
+    "id": "pm_vishwakarma",
+    "name": "PM Vishwakarma",
+    "category": ["SC", "ST", "OBC", "General", "Women"],
+    "gender": ["Male", "Female", "Other"],
+    "business_types": [
+      "Traditional Artisan",
+      "Craft",
+      "Manufacturing"
+    ],
+    "min_age": 18,
+    "max_age": null,
+    "states": ["All"],
+    "benefit_type": "Training + Toolkit + Credit Support",
+    "loan_limit": null,
+    "documents": [
+      "Identity Proof",
+      "Address Details",
+      "Aadhaar-linked Details",
+      "Occupation/Trade Details"
+    ],
+    "description": "Traditional artisans aur craftspeople ko skill, toolkit aur credit-related support provide karne wali government scheme.",
+    "official_website": "https://pmvishwakarma.gov.in/",
+    "source_status": "Official portal"
+  }
+]
